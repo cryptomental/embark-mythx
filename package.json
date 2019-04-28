@@ -1,0 +1,28 @@
+{
+  "name": "@cryptomental/embark-mythx",
+  "version": "0.1.0",
+  "description": "Embark MythX plugin",
+  "main": "index.js",
+  "keywords": [
+    "blockchain",
+    "dapps",
+    "ethereum",
+    "solc",
+    "solidity",
+    "security",
+    "mythx"
+  ],
+  "author": "Cryptomental",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cryptomental/embark-mythx/issues"
+  },
+  "homepage": "https://github.com/cryptomental/embark-mythx",
+  "dependencies": {
+    "shelljs": "^0.8.3",
+    "@cleanunicorn/mythos": "^0.8.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.13.0"
+  }
+}

@@ -41,3 +41,7 @@ Requirements
 ======
 
 - Embark 4.0.0+
+
+Demo
+======
+[![asciicast](https://asciinema.org/a/DS6ikf1tiINEJjar9nxnUGXRK.svg)](https://asciinema.org/a/DS6ikf1tiINEJjar9nxnUGXRK)
